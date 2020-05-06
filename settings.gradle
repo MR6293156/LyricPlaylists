@@ -1,0 +1,2 @@
+rootProject.name='LyricPlaylists'
+include ':app'
